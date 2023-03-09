@@ -18,9 +18,9 @@ const Header = () => {
 
   return (
     <nav className="flex justify-between flex-wrap bg-[#467255] text-white fixed w-full z-10 top-0 h-16 shadow-md">
-      <a href="/" className="text-4xl font-semibold w-auto mt-2 ml-4">
+      <Link href="/" className="text-4xl font-semibold w-auto mt-2 ml-4">
         Isaiah Sylvester
-      </a>
+      </Link>
       <div className="block md:hidden">
         <button
           id="nav-toggle"
@@ -44,7 +44,7 @@ const Header = () => {
       >
         <ul className="md:flex justify-end items-center text-lg md:space-x-8 lg:space-x-8">
           <li>
-            <a href="/">Home</a>
+            <Link href="/">Home</Link>
           </li>
           <li onClick={scrollFunction}>
             <Link to="/#contact">Contact</Link>
