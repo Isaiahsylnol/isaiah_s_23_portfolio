@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/isaiah_s_23_portfolio/static/css/main.d49654d2.css",
-    "main.js": "/isaiah_s_23_portfolio/static/js/main.10e87cbf.js",
+    "main.js": "/isaiah_s_23_portfolio/static/js/main.abf0ca39.js",
     "static/js/787.3b1caf1b.chunk.js": "/isaiah_s_23_portfolio/static/js/787.3b1caf1b.chunk.js",
     "static/media/figma_design_2.png": "/isaiah_s_23_portfolio/static/media/figma_design_2.d949fdc53bd2493f0564.png",
     "static/media/petsnpals_figma.png": "/isaiah_s_23_portfolio/static/media/petsnpals_figma.a953ff33a909b410e6ad.png",
@@ -19,18 +19,18 @@
     "static/media/react_logo.png": "/isaiah_s_23_portfolio/static/media/react_logo.dcc679e5a23288678934.png",
     "static/media/git_logo.png": "/isaiah_s_23_portfolio/static/media/git_logo.237e2214562c441f67b2.png",
     "static/media/cypress-logo.png": "/isaiah_s_23_portfolio/static/media/cypress-logo.93b025ba2390956b6eae.png",
-    "static/media/next_js_logo.svg": "/isaiah_s_23_portfolio/static/media/next_js_logo.bfb23e822fc36bcdb6ef5e563dd35342.svg",
+    "static/media/next_js_logo.svg": "/isaiah_s_23_portfolio/static/media/next_js_logo.4ecfaff068d2c413ee57ad471ffd5d70.svg",
     "static/media/mongodb-logo.svg": "/isaiah_s_23_portfolio/static/media/mongodb-logo.1aca075d5cce0819fea7ea0902d94ce4.svg",
     "index.html": "/isaiah_s_23_portfolio/index.html",
-    "static/media/Tailwind_CSS_Logo.svg": "/isaiah_s_23_portfolio/static/media/Tailwind_CSS_Logo.fa33f4e8e025e5e800a2b8938c449152.svg",
+    "static/media/Tailwind_CSS_Logo.svg": "/isaiah_s_23_portfolio/static/media/Tailwind_CSS_Logo.319cd2de1897d256a7ea121fc862155d.svg",
     "static/media/GraphQL-Logo.svg": "/isaiah_s_23_portfolio/static/media/GraphQL-Logo.85317997da9474f71fd69b88d9fd0a50.svg",
     "static/media/CSS3_logo.svg": "/isaiah_s_23_portfolio/static/media/CSS3_logo.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "main.d49654d2.css.map": "/isaiah_s_23_portfolio/static/css/main.d49654d2.css.map",
-    "main.10e87cbf.js.map": "/isaiah_s_23_portfolio/static/js/main.10e87cbf.js.map",
+    "main.abf0ca39.js.map": "/isaiah_s_23_portfolio/static/js/main.abf0ca39.js.map",
     "787.3b1caf1b.chunk.js.map": "/isaiah_s_23_portfolio/static/js/787.3b1caf1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d49654d2.css",
-    "static/js/main.10e87cbf.js"
+    "static/js/main.abf0ca39.js"
   ]
 }
