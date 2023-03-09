@@ -11,6 +11,7 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Profile />} />
+        <Route path="/isaiah_s_23_portfolio" element={<Profile />} />
         <Route path="/resume" element={<Resume />} />
       </Routes>
       <Footer />
