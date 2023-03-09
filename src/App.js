@@ -4,14 +4,15 @@ import Profile from "./Pages/index";
 import Header from "./components/Header";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Footer from "./components/Footer";
+import Test from "./Pages/test";
 
 function App() {
   return (
-    <Router basename="/">
+    <Router basename={process.env.PUBLIC_URL}>
       <Header />
       <Routes>
-        <Route path="/" element={<Profile />} />
-        <Route path="/isaiah_s_23_portfolio" element={<Profile />} />
+        <Route exact path="/" element={<Profile />} />
+        <Route exact path="/test" element={<Test />} />
         <Route path="/resume" element={<Resume />} />
       </Routes>
       <Footer />
