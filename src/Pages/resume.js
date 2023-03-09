@@ -1,10 +1,8 @@
-import Header from "../components/Header";
 import samplePDF from "./isaiah_sylvester.pdf";
 
 export default function Resume() {
   return (
     <div className="h-screen w-full pt-16 pb-3">
-      <Header />
       <iframe
         id="myPDF"
         style={{ width: "100%", height: "100%" }}
