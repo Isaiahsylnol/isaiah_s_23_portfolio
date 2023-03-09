@@ -47,7 +47,7 @@ const Header = () => {
       >
         <ul className="md:flex justify-end items-center text-lg md:space-x-8 lg:space-x-8">
           <li>
-            <Link href="/isaiah_s_23_portfolio">Home</Link>
+            <Link href="/">Home</Link>
           </li>
           <li onClick={scrollFunction}>
             <Link to="/#contact">Contact</Link>
