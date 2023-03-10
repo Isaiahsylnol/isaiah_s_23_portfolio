@@ -47,10 +47,10 @@ const Header = () => {
       >
         <ul className="md:flex justify-end items-center text-lg md:space-x-8 lg:space-x-8">
           <li>
-            <Link href="/">Home</Link>
+            <Link to="/">Home</Link>
           </li>
           <li>
-            <Link href="/test">Test</Link>
+            <Link to="/test">Test</Link>
           </li>
           <li onClick={scrollFunction}>
             <Link to="/#contact">Contact</Link>
