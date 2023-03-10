@@ -8,7 +8,7 @@ import Test from "./Pages/test";
 
 function App() {
   return (
-    <Router basename="https://isaiahsylnol.github.io/isaiah_s_23_portfolio/">
+    <Router basename={process.env.PUBLIC_URL}>
       <Header />
       <Routes>
         <Route exact path="/" element={<Profile />} />
